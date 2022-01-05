@@ -1,2 +1,6 @@
-# Page 1
+---
+description: Setting up TerraForge3D on your computer!
+---
+
+# Setting Up
 
