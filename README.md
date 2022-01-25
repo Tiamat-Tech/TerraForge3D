@@ -6,11 +6,7 @@ description: Setting up TerraForge3D on your computer!
 
 ### On Windows
 
-* First Download the latest version of **TerraForge3D**.
-
-{% file src=".gitbook/assets/TerraForge3D.Win32.v2.0 (1).zip" %}
-Version 2.0
-{% endfile %}
+* First Download the latest version of **TerraForge3D**. [https://github.com/Jaysmito101/TerraForge3D/releases/download/v2.1/TerraForge3D.Win32.zip](https://github.com/Jaysmito101/TerraForge3D/releases/download/v2.1/TerraForge3D.Win32.zip)
 
 {% hint style="info" %}
 You can also download older versions from the [Releases Page](https://github.com/Jaysmito101/TerraForge3D/releases).
